@@ -1146,7 +1146,7 @@ export const renders = [
   {
     title: ' Yuamu Ohdo ',
     description: ' By: eduardohaloce  - Anime: Yu-Gi-Oh! ',
-    imageUrl: ' https://64.media.tumblr.com/29b9ed32259d55caaafdd8c4979e0da5/6acc08f4f020218b-fa/s2048x3072/728b4e9e671956dfd02e64486bafc6c4bba1e9f1.pnj ',
+    imageUrl: 'https://64.media.tumblr.com/29b9ed32259d55caaafdd8c4979e0da5/6acc08f4f020218b-fa/s2048x3072/728b4e9e671956dfd02e64486bafc6c4bba1e9f1.pnj',
     downloadUrl: ' https://www.mediafire.com/file/i3l614njf1tac2k/Yuamu_Ohdo.rar/file ', // Reemplaza con tu enlace real
   },
 
