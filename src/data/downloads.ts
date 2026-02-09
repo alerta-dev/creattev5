@@ -1014,7 +1014,7 @@ export const renders = [
   {
     title: ' Ragna',
     description: 'By: ? - Anime: BlazBlue ',
-    imageUrl: 'https://64.media.tumblr.com/bde45d0e94e3329612b8bb3dbc9eee39/b585da609a9da825-1b/s1280x1920/0c8415336445b5d33e1852e7d802e86b7e327e79.jpg ',
+    imageUrl: 'https://64.media.tumblr.com/bde45d0e94e3329612b8bb3dbc9eee39/b585da609a9da825-1b/s1280x1920/0c8415336445b5d33e1852e7d802e86b7e327e79.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1DcGM7Kl-uhkZeuXYOjq8SRTzuWNe_wI-/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
