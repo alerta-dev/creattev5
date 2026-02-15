@@ -1045,7 +1045,7 @@ export const renders = [
     title: 'Makise ',
     description: 'By: Avrax - Anime:Steins:Gate ',
     imageUrl: 'https://64.media.tumblr.com/5de3a4bfd715e4e0d1cc236c4e947840/b585da609a9da825-54/s400x600/0250135d04ecbb4055a41634537c579c4cee7006.jpg ',
-    downloadUrl: 'https://drive.google.com/file/d/1An76A3RIEqxtZF1WBLTbseLSxSTTLmrt/view?usp=sharing ', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/file/d/1An76A3RIEqxtZF1WBLTbseLSxSTTLmrt/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
     title: 'Kyouko hori ',
