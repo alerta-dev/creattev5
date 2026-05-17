@@ -2076,7 +2076,7 @@ export const renders = [
   {
     title: 'Shin Kanzato',
     description: 'By:Bjv- Anime:Persona:Trinity Soul',
-    imageUrl: 'https://pbs.twimg.com/media/Ebf-kV6XkAAFnqV.jpg',
+    imageUrl: 'https://pbs.twimg.com/media/Ebf-kV6XkAAFnqV?format=jpg&name=large',
     downloadUrl: 'https://drive.google.com/file/d/1vE5Jdbt8vvtqiXIJi5NcwtPZ1a7fn5BC/view?usp=drive_link',
   },
   {
