@@ -1020,13 +1020,13 @@ export const renders = [
   {
     title: 'Alexis Rhodes ',
     description: 'By: Avrax - Anime: Yu gi oh! GX ',
-    imageUrl: 'https://64.media.tumblr.com/9c15e9e88f3c52c3af0fc8dbd767cbc0/b585da609a9da825-33/s1280x1920/8cc8205b545915dd7be021f7093b786ae28a68da.jpg ',
+    imageUrl: 'https://64.media.tumblr.com/9c15e9e88f3c52c3af0fc8dbd767cbc0/b585da609a9da825-33/s1280x1920/8cc8205b545915dd7be021f7093b786ae28a68da.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1eDgDG2W3EM6CskR3Ih2LVfFx9ObECEA7/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
     title: ' Enrico Pucci',
     description: 'By: Kaira - Anime: Jojos Bizarre Adventure: S.O. ',
-    imageUrl: 'https://64.media.tumblr.com/cdb122e3d8d6a44287f7fe570b46e788/b585da609a9da825-2c/s1280x1920/0a9af1e38eef959f52391421aee7416bec36cc39.jpg ',
+    imageUrl: 'https://64.media.tumblr.com/cdb122e3d8d6a44287f7fe570b46e788/b585da609a9da825-2c/s1280x1920/0a9af1e38eef959f52391421aee7416bec36cc39.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1509LQbdwg13Ev4oKaZ1iX8z2AWp1dbdU/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
