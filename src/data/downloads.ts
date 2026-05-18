@@ -1743,7 +1743,7 @@ export const renders = [
   {
     title: 'Shuuya Kano',
     description: 'By: Yuki Loquendo - Anime:MEKAKUCITY ACTORS',
-    imageUrl: 'https://static.zerochan.net/Kano.Shuuya.1024.1984152.webp',
+    imageUrl: 'https://static.zerochan.net/Kano.Shuuya.full.2942254.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1bHf6sSaaiAnnt3xDPTaMTDK67cRp87Tu/view?usp=sharing',
   },
   {
@@ -1755,13 +1755,13 @@ export const renders = [
   {
     title: 'Goku',
     description: 'By:   - Anime:Dragon Ball Z ',
-    imageUrl: 'https://static.zerochan.net/Goku.1024.4160635.webp',
+    imageUrl: 'https://static.zerochan.net/Son.Goku.%28DRAGON.BALL%29.full.2302372.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1x_MThhBUzNM58yjEflusPtFo-majDnMo/view?usp=drive_link',
   },
   {
     title: 'Charlotte Wraith',
     description: 'By:Marnicai - Anime:As a Reincarnated Aristocrat, Ill Use My Appraisal Skill to Rise in the World ',
-    imageUrl: 'https://pbs.twimg.com/media/GNc37rPawAArMXV.jpg',
+    imageUrl: 'https://static.zerochan.net/Tensei.Kizoku.Kantei.Skill.de.Nariagaru.full.4301049.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1MRQScLyujROfUejuPyEtDLonl6KkxUBC/view?usp=sharing',
   },
   {
@@ -1797,37 +1797,37 @@ export const renders = [
   {
     title: 'Rouge the Bat',
     description: 'By:Kingston- Anime:Sonic',
-    imageUrl: 'https://static.zerochan.net/Rouge.the.Bat.full.4585725.png',
+    imageUrl: 'https://static.zerochan.net/Rouge.the.Bat.full.3336070.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1rA17YL8rBYRYJeNMTpKJMWkTIMvy1cC-/view?usp=drive_link',
   },
   {
     title: 'Knuckles',
     description: 'By:Kingston - Anime: Sonic   ',
-    imageUrl: 'https://static.zerochan.net/Knuckles.the.Echidna.full.4271920.png',
+    imageUrl: 'https://static.zerochan.net/Knuckles.the.Echidna.full.4216003.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1OS5F6B2n6yQKuIeuB4IsP5wDKVBfPII2/view?usp=drive_link',
   },
   {
     title: 'Rarity',
     description: 'By:Mirai77 - Anime:Equestria girls MLP',
-    imageUrl: 'https://static.zerochan.net/Rarity.full.3267536.png',
+    imageUrl: 'https://static.zerochan.net/Rarity.full.1377826.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1pNGczMQ0YEDDXDggchVl9Fa93cjix6fc/view?usp=drive_link',
   },
   {
     title: 'Rui Tachibana',
     description: 'By:LoreMafia - Anime:Domestic Na Kanojo',
-    imageUrl: 'https://static.zerochan.net/Tachibana.Rui.1024.2461250.webp',
+    imageUrl: 'https://static.zerochan.net/Tachibana.Hina.%28Domestic.na.Kanojo%29.full.2054982.jpg',
     downloadUrl: 'https://drive.google.com/file/d/19U-IhGnLUAo5O2w6O5bo2jm__H2VfQUB/view?usp=drive_link',
   },
   {
     title: 'Nico Yazawa',
     description: 'By:Starmelvyy- Anime:Love Live ',
-    imageUrl: 'https://static.zerochan.net/Yazawa.Nico.1024.1277170.webp',
+    imageUrl: 'https://static.zerochan.net/Yazawa.Nico.full.3982918.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1-1OKp0adiY99fEUEpEJ0Aph-mEipEOg4/view?usp=drive_link',
   },
   {
     title: 'Yuzuki Nanase',
     description: 'By:Starmelvyy - Anime:Chitose-kun wa Ramune Bin no Naka',
-    imageUrl: 'https://static.zerochan.net/Nanase.Yuzuki.1024.4414198.webp',
+    imageUrl: 'https://static.zerochan.net/Nanase.Yuzuki.full.3289838.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1kcT55faYWEK5Nz613u3IxMDYA8cgy3c7/view?usp=drive_link',
   },
   {
@@ -1837,15 +1837,15 @@ export const renders = [
     downloadUrl: 'https://drive.google.com/file/d/1HnQ-MlI1S9dc0OeyHSoL9HqUv-995Ay8/view?usp=drive_link',
   },
   {
-    title: 'Fox mccloud',
+    title: 'Fox Mcloud',
     description: 'By:Draguito- Anime:Star Fox',
-    imageUrl: 'https://static.zerochan.net/Fox.McCloud.1024.2471056.webp',
+    imageUrl: 'https://static.zerochan.net/Fox.McCloud.full.1991557.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1OyGpvhJ2TnBGfNfmm0PBj-k94Ru9Dk1v/view?usp=drive_link',
   },
   {
     title: 'Mitsuri',
     description: 'By:LoreMafia- Anime:Demon Slayer',
-    imageUrl: 'https://static.zerochan.net/Kanroji.Mitsuri.full.2793505.jpg',
+    imageUrl: 'https://static.zerochan.net/Kanroji.Mitsuri.full.4260753.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1U73TENW0V5TrRNk52haQEr5eipqfbYel/view?usp=drive_link',
   },
   {
@@ -1857,13 +1857,13 @@ export const renders = [
   {
     title: 'Jellal Fernandes',
     description: 'By:   - Anime:Fairy Tail.',
-    imageUrl: 'https://static.zerochan.net/Jellal.Fernandes.1024.2794158.webp',
+    imageUrl: 'https://static.zerochan.net/FAIRY.TAIL.full.4642908.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1p8ZT_LHbQ-9jk2OyRYC7aqwLZDhclFNo/view?usp=drive_link',
   },
   {
     title: 'Jotaro Kujo',
     description: 'By:   - Anime:Jojos Bizarre Adventures',
-    imageUrl: 'https://static.zerochan.net/Kuujou.Joutarou.1024.2601021.webp',
+    imageUrl: 'https://static.zerochan.net/Kuujou.Joutarou.full.3834475.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1gabzCWvWHjK-bsfh1Jk2EoHLQIBjoHog/view?usp=drive_link',
   },
   {
@@ -1881,7 +1881,7 @@ export const renders = [
   {
     title: 'Klonoa',
     description: 'By:   - Anime:Klonoa',
-    imageUrl: 'https://static.zerochan.net/Klonoa.%28Character%29.full.4042614.png',
+    imageUrl: 'https://static.zerochan.net/Klonoa.%28Character%29.full.2152277.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1RaTOyizrpz26s8dCuMheokanUUVeQN9y/view?usp=drive_link',
   },
   {
@@ -1953,7 +1953,7 @@ export const renders = [
   {
     title: 'Nagito Komaeda',
     description: 'By:   - Anime:Danganrompa',
-    imageUrl: 'https://static.zerochan.net/Komaeda.Nagito.full.3637582.png',
+    imageUrl: 'https://static.zerochan.net/Komaeda.Nagito.full.2905473.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1Mh1iJOX3ltENZaFLEHmzstim1ZcZGLLU/view?usp=drive_link',
   },
   {
@@ -1989,7 +1989,7 @@ export const renders = [
   {
     title: 'Quote',
     description: 'By:   - Anime:Cave Story',
-    imageUrl: 'https://static.zerochan.net/Quote.%28Cave.Story%29.full.1105239.jpg',
+    imageUrl: 'https://static.zerochan.net/Quote.%28Cave.Story%29.full.1105311.jpg',
     downloadUrl: 'https://drive.google.com/file/d/12NWWqYVXiZegJDWp_00QgFyjwOtzdMmK/view?usp=drive_link',
   },
   {
@@ -2007,7 +2007,7 @@ export const renders = [
   {
     title: 'Rodin',
     description: 'By:   - Anime:Bayonetta',
-    imageUrl: 'https://s1.zerochan.net/Rodin.600.341098.jpg',
+    imageUrl: 'https://i.ytimg.com/vi/RfQNqRz_8lQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVihEMA8=&rs=AOn4CLA6zkP0w__ZNSFqYrRZrtJ80giYqQ',
     downloadUrl: 'https://drive.google.com/file/d/1o9n_RKxvcZGMT5pSTnTzru2_MsDQtOm3/view?usp=drive_link',
   },
   {
@@ -2019,7 +2019,7 @@ export const renders = [
   {
     title: 'Gintoki Sakata',
     description: 'By:   - Anime:Gintama',
-    imageUrl: 'https://static.zerochan.net/Sakata.Gintoki.1024.1000514.webp',
+    imageUrl: 'https://static.zerochan.net/Sakata.Gintoki.full.4388240.jpg',
     downloadUrl: 'https://drive.google.com/file/d/14O9w3iqIsqKE7wlJFsCFxSsS27gDor4g/view?usp=drive_link',
   },
   {
@@ -2067,7 +2067,7 @@ export const renders = [
   {
     title: 'Shin Kanzato',
     description: 'By:Bjv- Anime:Persona:Trinity Soul',
-    imageUrl: 'https://s1.zerochan.net/Kanzato.Shin.600.854110.jpg',
+    imageUrl: 'https://static.zerochan.net/Kanzato.Shin.full.167039.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1vE5Jdbt8vvtqiXIJi5NcwtPZ1a7fn5BC/view?usp=drive_link',
   },
   {
@@ -2095,9 +2095,9 @@ export const renders = [
     downloadUrl: 'https://drive.google.com/file/d/1RvPJYg9pPIMMLy0JGdLPNqdr97GRLqzs/view?usp=drive_link',
   },
   {
-    title: 'Sieghart',
-    description: 'By:   - Anime:Rave Master',
-    imageUrl: 'https://i.pinimg.com/736x/a1/86/dd/a186dd02f94f189bff4e2b2b09bd8e65.jpg',
+    title: 'Elsword',
+    description: 'By:   - Anime:Elsword',
+    imageUrl: 'https://i.ytimg.com/vi/OnsExd3k3No/maxresdefault.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1OPfu9HMLtev7d1Xu5FznHRIwWljCUeWG/view?usp=drive_link',
   },
   {
@@ -2307,13 +2307,13 @@ export const renders = [
   {
     title: 'Ookanehira',
     description: 'By:   - Anime:Touken Ranbu',
-    imageUrl: 'https://static.zerochan.net/Ookanehira.1024.2423828.webp',
+    imageUrl: 'https://static.zerochan.net/Ookanehira.full.2333956.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1j7RGrBBIuv9KhIH1oeK12__5QAQ0Ndl_/view?usp=drive_link',
   },
   {
     title: 'Orion',
     description: 'By:   - Anime:Amnesia',
-    imageUrl: 'https://static.zerochan.net/Orion.%28AMNESIA%29.1024.2706769.webp',
+    imageUrl: 'https://static.zerochan.net/Orion.%28AMNESIA%29.full.4050415.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1TdYQwIj0eoCvau5io-lzS6cJjlLPoXij/view?usp=drive_link',
   },
   {
@@ -2349,7 +2349,7 @@ export const renders = [
   {
     title: 'Tanjiro Kamado',
     description: 'By:   - Anime:Demon Slayer',
-    imageUrl: 'https://static.zerochan.net/Kamado.Tanjirou.1024.2538961.webp',
+    imageUrl: 'https://64.media.tumblr.com/b5d3af27d2f47cb4551826ce82c987e5/9edb5fefceacb5b8-c9/s2048x3072/67dec6c9be727d8eca5581f8b8fed1c641c9e30a.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1TuTQBEHMVw4pckukRBmxjhF8ZJmcGUnb/view?usp=drive_link',
   },
   {
@@ -2403,13 +2403,13 @@ export const renders = [
   {
     title: 'Itsuki Nakano',
     description: 'By:makireddo- Anime:The Quintessential Quintuplets',
-    imageUrl: 'https://static.zerochan.net/Nakano.Itsuki.1024.2447166.webp',
+    imageUrl: 'https://i.ytimg.com/vi/7Yw79KpKor0/maxresdefault.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1FYUTotZSUNhFc45CMQvhXH5ydCwuJWGs/view?usp=drive_link',
   },
   {
     title: 'Aqua',
     description: 'By:   - Anime:Konosuba',
-    imageUrl: 'https://static.zerochan.net/Aqua.%28KonoSuba%29.full.4148953.png',
+    imageUrl: 'https://static.zerochan.net/Aqua.%28KonoSuba%29.full.4269823.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1IVkrLF3cUCebnwHwa4YkvciAQt3lc7fP/view?usp=drive_link',
   },
   {
@@ -2427,7 +2427,7 @@ export const renders = [
   {
     title: 'Tomoko Kuroki',
     description: 'By:Danny Kuroki- Anime:Watamote ',
-    imageUrl: 'https://static.zerochan.net/Kuroki.Tomoko.full.4127662.jpg',
+    imageUrl: 'https://64.media.tumblr.com/cf20a71069a2ee8a6141111fa9555a9b/a210cb3063ae9fdc-d5/s1280x1920/f7a6518ddc3887ae1229ff277646f69920feb7f5.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1Vm-9rQf5hlh9yNaKeXu3Jf8aJGjC4uHg/view?usp=drive_link',
   },
   {
