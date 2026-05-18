@@ -1003,7 +1003,7 @@ export const renders = [
     title: 'Akko',
     description: ' By: MrLoreMafia - Anime: Little Witch Academia ',
     imageUrl: 'https://64.media.tumblr.com/5b16f0f04e0888bf44da39071aef010d/f5c0ff614b64579d-cf/s1280x1920/d12ed7b67ccffce121618c6156e6fc9b11a3cad0.jpg',
-    downloadUrl: 'https://drive.google.com/file/d/1N_n9ZavXRNVA_dPd_PXQy8t0UHAmDHYa/view?usp=sharing', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/drive/folders/1_6CR9STM28_Sf3gcsi2AOm6I53ePAWJc?usp=drive_link', // Reemplaza con tu enlace real
   },
   {
     title: 'Akame',
