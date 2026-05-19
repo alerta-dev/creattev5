@@ -228,6 +228,7 @@ export const programs = [
     description: 'By:JohnnyBlack X La contraseña es: Edits24',
     imageUrl: 'https://64.media.tumblr.com/69ecdf7460b78037ca157b4159cd7285/1d2755acf326a6f0-09/s1280x1920/08c27b1d26ede1ea51a02db2f344c7a7e8b5af00.pnj',
     downloadUrl: 'https://pixeldrain.com/u/1sSJ6rzc',
+   },
   {
   title: 'Adobe Ilustrator 2019',
   description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
