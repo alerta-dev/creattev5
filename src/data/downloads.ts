@@ -50,7 +50,7 @@ export const programs = [
   },
   {
     title: 'Adobe Media Encoder 2026',
-    description: 'By:JohnnyBlack X La contraseña es: Edits24',
+    description: 'By:JohnnyBlack X La contraseña es Edits24',
     imageUrl: 'https://64.media.tumblr.com/f14afc8f25a5845e940ad93dc037c5c7/becc2ce85e6e75a8-3d/s1280x1920/f154398dad2630b8fe652f4626998769641dc64a.pnj',
     downloadUrl: 'https://pixeldrain.com/u/6NxXrN5p',
   },
