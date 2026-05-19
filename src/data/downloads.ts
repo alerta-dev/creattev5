@@ -19,6 +19,12 @@ export const programs = [
     downloadUrl: 'https://drive.google.com/file/d/1qdx6RUHLEpdC9vF5MCyiKNml_f-aAkHD/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
+    title: 'Adobe Animate 2024',
+    description: 'By: KELL KILLJOY',
+    imageUrl: 'https://i.ytimg.com/vi/CDtUujD-h7I/maxresdefault.jpg',
+    downloadUrl: 'https://drive.google.com/file/d/1lof0Q3tGpQx9BbjTYhCx1BpqflT8lU6z/view?usp=drive_link',
+  },
+  {
   title: 'Adobe Audition 2019',
   description: 'Software profesional de edición de audio',
   imageUrl: 'https://64.media.tumblr.com/d0f36162b43060edbd4289d1baa7da2f/7c5595c34da0bc18-50/s1280x1920/41502a34630ee7479010ffa5f50dbb87c2a9bbce.pnj',
@@ -31,10 +37,22 @@ export const programs = [
   downloadUrl: 'https://drive.google.com/file/d/1EA6_9qgr86CctRZm3KidZxt0nTCSqxEk/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
+    title: 'CapCut v17.3.0 Pro APK',
+    description: 'By:El Corjete Javi',
+    imageUrl: 'https://grupoioe.es/wp-content/uploads/2024/09/capcut.webp',
+    downloadUrl: 'https://drive.google.com/file/d/1zu_M-kg4-imo8n5Qbk8PhSbJ54kKJ_B1/view?usp=drivesdk',
+  },
+  {
   title: 'Adobe Media Encoder CC 2019',
   description: 'Software profesional para codificar videos',
   imageUrl: 'https://64.media.tumblr.com/f14afc8f25a5845e940ad93dc037c5c7/becc2ce85e6e75a8-3d/s1280x1920/f154398dad2630b8fe652f4626998769641dc64a.pnj',
   downloadUrl: 'https://drive.google.com/file/d/1HTroH5U7NuCfTANn7CGW7rzS2TVuooMg/view?usp=sharing', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Adobe Media Encoder 2026',
+    description: 'By:JohnnyBlack X La contraseña es: Edits24',
+    imageUrl: 'https://64.media.tumblr.com/f14afc8f25a5845e940ad93dc037c5c7/becc2ce85e6e75a8-3d/s1280x1920/f154398dad2630b8fe652f4626998769641dc64a.pnj',
+    downloadUrl: 'https://pixeldrain.com/u/6NxXrN5p',
   },
   {
   title: 'Adobe Photoshop 2012 CS6',
@@ -74,6 +92,12 @@ export const programs = [
   downloadUrl: 'https://www.mediafire.com/file/yp0f1r4j0d6r21b/WIN_APS_V23.5.0.669_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
   {
+    title: 'Adobe Photoshop 2026',
+    description: 'By:JohnnyBlack X La contraseña es: Edits24',
+    imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
+    downloadUrl: 'https://pixeldrain.com/u/6DwyVB1c',
+  },
+  {
     title: 'Adobe After Effects CS5',
     description: 'Programa de edición de video cinematografico',
     imageUrl: 'https://64.media.tumblr.com/65382e7d912ec246731b66e4944f4283/5f94e19b14c236e5-a9/s1280x1920/db9eee3a6c613ea81c40b0d1e8a427a50e12687d.pnj',
@@ -110,6 +134,12 @@ export const programs = [
     downloadUrl: 'https://www.mediafire.com/file/ohfv2ixhcjsdmsc/WIN_AAE_V23.5.0.52_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
   {
+    title: 'Adobe After Effects 2026',
+    description: 'By:JohnnyBlack X La contraseña es: Edits24',
+    imageUrl: 'https://64.media.tumblr.com/65382e7d912ec246731b66e4944f4283/5f94e19b14c236e5-a9/s1280x1920/db9eee3a6c613ea81c40b0d1e8a427a50e12687d.pnj',
+    downloadUrl: 'https://pixeldrain.com/u/qGrpXL5v',
+  },
+  {
     title: 'Sony Vegas Pro 10',
     description: 'Programa de edición de video cinematografico',
     imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
@@ -126,6 +156,12 @@ export const programs = [
     description: 'Programa de edición de video cinematografico',
     imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1hveo0C96r3sKiLJ9aWsOwws40ksUjSzT/view?usp=sharing', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Sony Vegas 13',
+    description: 'Programa de edición de video cinematografico',
+    imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/14jTCW2xCy0yuXU-tMRtSEtSraz5A_x5h/view?usp=sharing',
   },
   {
     title: 'Sony Vegas Pro 14',
@@ -158,6 +194,12 @@ export const programs = [
     downloadUrl: 'https://drive.google.com/file/d/1kqxon-lrJFSfWE1iPIcqOsNefryDrkJO/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
+    title: 'Vegas pro 23',
+    description: 'By:JohnnyBlack X',
+    imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
+    downloadUrl: 'https://mega.nz/file/LNkBnbCC#Zk85fAP_ioaGdTbXKyfHp41-4MVSMfKSzIu1yiWXUNg',
+  },
+  {
     title: 'Adobe Premier 2020',
     description: 'Programa de edición de video cinematografico contraseña: www.artistapirata.com',
     imageUrl: 'https://64.media.tumblr.com/69ecdf7460b78037ca157b4159cd7285/1d2755acf326a6f0-09/s1280x1920/08c27b1d26ede1ea51a02db2f344c7a7e8b5af00.pnj',
@@ -181,6 +223,11 @@ export const programs = [
     imageUrl: 'https://64.media.tumblr.com/69ecdf7460b78037ca157b4159cd7285/1d2755acf326a6f0-09/s1280x1920/08c27b1d26ede1ea51a02db2f344c7a7e8b5af00.pnj',
     downloadUrl: 'https://www.mediafire.com/file/vxho87az9vftx32/WIN_APR_V23.5.0.56_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
+  {
+    title: 'Adobe Premiere Pro 2026',
+    description: 'By:JohnnyBlack X La contraseña es: Edits24',
+    imageUrl: 'https://64.media.tumblr.com/69ecdf7460b78037ca157b4159cd7285/1d2755acf326a6f0-09/s1280x1920/08c27b1d26ede1ea51a02db2f344c7a7e8b5af00.pnj',
+    downloadUrl: 'https://pixeldrain.com/u/1sSJ6rzc',
   {
   title: 'Adobe Ilustrator 2019',
   description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
@@ -212,12 +259,35 @@ export const programs = [
   downloadUrl: 'https://www.mediafire.com/file/5rl1r0jq3yxqa8n/WIN_AAI_V27.1.0.189_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
   {
+    title: 'Adobe Illustrator 2026',
+    description: 'By:JohnnyBlack X La contraseña es: Edits24',
+    imageUrl: 'https://64.media.tumblr.com/d28d7a1e479b4cebb3bb19f97ef69ab5/1d2755acf326a6f0-e6/s1280x1920/2b231e537f2c538707648c4b72c14980b78242ee.pnj',
+    downloadUrl: 'https://pixeldrain.com/u/rhaP1tyC',
+  },
+  {
+    title: 'Adobe Audition 2026',
+    description: 'By:JohnnyBlack X La contraseña es: Edits24',
+    imageUrl: 'https://64.media.tumblr.com/d0f36162b43060edbd4289d1baa7da2f/7c5595c34da0bc18-50/s1280x1920/41502a34630ee7479010ffa5f50dbb87c2a9bbce.pnj',
+    downloadUrl: 'https://pixeldrain.com/u/EXrZpFSF',
+  },
+  {
   title: 'QuickTime 7.7.9',
   description: 'Software profesional para codificar videos',
   imageUrl: 'https://64.media.tumblr.com/377665514841d42ff212b02981d6f674/becc2ce85e6e75a8-f9/s1280x1920/3ca12219d85ea4cfe266c9cdee075c1f58ca0268.pnj',
   downloadUrl: 'https://drive.google.com/file/d/1GqIiDSWo4R0UrtQUGkCotcl-XjQ4v1JE/view?usp=sharing', // Reemplaza con tu enlace real
   },
-  
+  {
+    title: 'Speech to Text ',
+    description: 'By:JohnnyBlack X',
+    imageUrl: 'https://i.ytimg.com/vi/SJKoTXjvGGQ/maxresdefault.jpg',
+    downloadUrl: 'https://pixeldrain.com/u/zFRPrtv2',
+  },
+  {
+    title: 'Blackmagic Design',
+    description: 'By:JohnnyBlack X',
+    imageUrl: 'https://petapixel.com/assets/uploads/2024/06/blackmagic-cloud-ai-training-featured-1536x806.jpg',
+    downloadUrl: 'https://pixeldrain.com/u/Y8jvqZih',
+  },
 ];
 
 // Plugins
@@ -2477,6 +2547,36 @@ export const backgrounds = [
     imageUrl: 'https://64.media.tumblr.com/fce4c939a62370ec2f09f2aea672dfc2/9f49400a412459c2-de/s2048x3072/1190f5b37ec9af3d1d78b97b1ae36c3dc748e79b.pnj',
     downloadUrl: 'https://drive.google.com/file/d/150vAhXx436GomH_g1widK0-tSaNZlcuz/view?usp=sharing', // Reemplaza con tu enlace real
   },
+  {
+    title: 'Pack Fondos Chainsaw Man',
+    description: 'By: Pipe Geno',
+    imageUrl: 'https://64.media.tumblr.com/8df06821f8baf5b3d35d52dc76d8dedc/5a02eb27ce7e2535-fd/s1280x1920/a4cd96f62c4e5857df79dd8285eb5c82260e461c.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/18JvvW2yxrq9Oa7a3gMiiOA6fLk2C-1dY/view?usp=sharing',
+  },
+{
+    title: 'BLH 6 Fondos',
+    description: 'By:ZihFried, aortados por Anonimo ',
+    imageUrl: 'https://i.ytimg.com/vi/7SKUOc_bUdQ/maxresdefault.jpg',
+    downloadUrl: 'https://drive.google.com/file/d/1MQpbY_AHYqB_JE0CuqiFPSOJeUg-vsY3/view?usp=drive_link',
+  },
+{
+    title: 'Fondos Halloween',
+    description: 'By:Sentido Loquendo, eventos de Halloween   ',
+    imageUrl: 'https://i.ytimg.com/vi/OHc6nr2K2-Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA2m128p7YtOzTBQ8AOPmz-L1_e7w',
+    downloadUrl: 'https://drive.google.com/file/d/13FqnnGxRebWugTdKooCQ5wwMZpaGB_N3/view?usp=drive_link',
+  },
+{
+    title: 'Le Bout Fondos',
+    description: 'Fondos pertenecientes al torneo La Mansión Le Bout, de hace unos años.  ',
+    imageUrl: 'https://i.ytimg.com/vi/035I1tKlLSo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAgVeTclNAo75g5HbmYofqYTAb07Q',
+    downloadUrl: 'https://drive.google.com/file/d/1rS9eElNVa8l0lT-8-u1ieVE6619NH6ie/view?usp=drive_link',
+  },
+{
+    title: 'Inferno Fondos',
+    description: 'By:SLD, torneo antiguo.  ',
+    imageUrl: 'https://i1-c.pinimg.com/1200x/cf/00/9d/cf009d0183fbe027042977c74aac1aed.jpg',
+    downloadUrl: 'https://drive.google.com/file/d/1K234lQFtYadKH9f6ma1y0Gkdr-se9VFz/view?usp=drive_link',
+  },
 ];
 
 // Sonidos
@@ -2499,6 +2599,48 @@ export const sounds = [
     imageUrl: 'https://64.media.tumblr.com/3803c17696888e4a91d97571f3095f9d/199ff6539be30feb-c9/s1280x1920/c6f4a7e239ec9164bb0d646b19e7a67ec3951363.pnj',
     downloadUrl: 'https://example.com/download/ambientes-sonoros', // Reemplaza con tu enlace real
   },
+{
+    title: 'SFX Dragon Ball Z',
+    description: 'By:Lagarto Daltónico',
+    imageUrl: 'https://64.media.tumblr.com/3803c17696888e4a91d97571f3095f9d/199ff6539be30feb-c9/s1280x1920/c6f4a7e239ec9164bb0d646b19e7a67ec3951363.pnj',
+    downloadUrl: 'https://drive.google.com/drive/folders/1wP5X59E2u18vjA7ZHlm1-5y7fo1kOVZm',
+  },
+ {
+    title: 'SFX de sonido GTA IV',
+    description: 'By: KELL KILLJOY',
+    imageUrl: '  ',
+    downloadUrl: 'https://drive.google.com/file/d/1RK4lGpQNbcBIGzZMuWaqkWWeuucMl9J2/view?usp=sharing',
+  },
+  {
+    title: 'SFX de Bioshock',
+    description: 'By: KELL KILLJOY',
+    imageUrl: '  ',
+    downloadUrl: 'https://www.mediafire.com/file/zdn5exv3wn9owvp/BioshockSonidos.zip/file',
+  },
+{
+    title: 'Sonidos de Metro 2033',
+    description: 'By:  ',
+    imageUrl: 'https://i.ytimg.com/vi/Fdkv0W54ytQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB9wYCWyEbYdN5jVVfwPUPBBzwNGQ',
+    downloadUrl: 'https://www.mediafire.com/file/vqefoaiqk2pd0uc/metro2033.rar/file',
+  },
+{
+    title: 'Mister Horse SFX',
+    description: 'By:LuisFriends  ',
+    imageUrl: 'https://i.ytimg.com/vi/-0PlwJq87R4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBh7A6kkeg6IGMqyrsqmo-WyJdTBQ',
+    downloadUrl: 'https://drive.google.com/file/d/1Lac5dGHDmWCOB-tMPT0b9dVQdxf-FWOF/view?usp=drive_link',
+  },
+{
+    title: 'GTA IV SFX',
+    description: 'By:   ',
+    imageUrl: 'https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/HHI3T22RSNP6NC3YH75L2CVZFA.jpg',
+    downloadUrl: 'https://drive.google.com/file/d/1RK4lGpQNbcBIGzZMuWaqkWWeuucMl9J2/view?usp=drive_link',
+  },
+  {
+    title: 'Code Iyoko Songs',
+    description: 'By:   - ',
+    imageUrl: 'https://i.ytimg.com/vi/sglEftCe8Is/maxresdefault.jpg',
+    downloadUrl: 'https://drive.google.com/file/d/12rLY45VO9Aa4mW7xTbwlIRsbLy0quRLL/view?usp=drive_link',
+  },
 ];
 
 // Materiales
@@ -2510,5 +2652,22 @@ export const materials = [
     downloadUrl: 'https://www.mediafire.com/file/uz1kap15z5911tm/Caras+para+Renders.rar/file',
     webUrl: 'https://ejemplo.com/caras-walfas', // Reemplaza con la URL real que necesites
   },
-
+  {
+    title: 'STARTER PACK VISUAL EFFECTS',
+    description: 'By:LuisFriends y más   ',
+    imageUrl: 'https://www.tumblr.com/luisfriendss/817018441009594368',
+    downloadUrl: 'https://drive.google.com/file/d/1igY2A6ShTmtDYxg5ut1J8d-0R3G-_Fb_/view?usp=drive_link',
+  },
+  {
+    title: 'Pack de recursos Photoshop',
+    description: 'By: Avrax',
+    imageUrl: 'https://64.media.tumblr.com/b115cf6f4338ea702868e78f3344e387/5a02eb27ce7e2535-7f/s1280x1920/3f61bcda7542879ec6fb439553f3b6bb3e24f010.pnj',
+    downloadUrl: 'https://drive.google.com/file/d/16-y4AfhBrVxC0_Lzh-T6hprGp9IYhRzQ/view?usp=sharing',
+  },
+{
+    title: 'STARTER PACK VISUAL EFFECTS',
+    description: 'By:LuisFriends y más   ',
+    imageUrl: 'https://www.tumblr.com/luisfriendss/817018441009594368',
+    downloadUrl: 'https://drive.google.com/file/d/1igY2A6ShTmtDYxg5ut1J8d-0R3G-_Fb_/view?usp=drive_link',
+  },
 ];
