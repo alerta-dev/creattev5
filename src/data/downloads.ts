@@ -2606,16 +2606,10 @@ export const sounds = [
     imageUrl: 'https://64.media.tumblr.com/3803c17696888e4a91d97571f3095f9d/199ff6539be30feb-c9/s1280x1920/c6f4a7e239ec9164bb0d646b19e7a67ec3951363.pnj',
     downloadUrl: 'https://drive.google.com/drive/folders/1wP5X59E2u18vjA7ZHlm1-5y7fo1kOVZm',
   },
- {
-    title: 'SFX de sonido GTA IV',
-    description: 'By: KELL KILLJOY',
-    imageUrl: '  ',
-    downloadUrl: 'https://drive.google.com/file/d/1RK4lGpQNbcBIGzZMuWaqkWWeuucMl9J2/view?usp=sharing',
-  },
   {
     title: 'SFX de Bioshock',
     description: 'By: KELL KILLJOY',
-    imageUrl: '  ',
+    imageUrl: 'https://i.blogs.es/c638db/bioshock/1366_2000.webp',
     downloadUrl: 'https://www.mediafire.com/file/zdn5exv3wn9owvp/BioshockSonidos.zip/file',
   },
 {
@@ -2656,7 +2650,7 @@ export const materials = [
   {
     title: 'STARTER PACK VISUAL EFFECTS',
     description: 'By:LuisFriends y más   ',
-    imageUrl: 'https://www.tumblr.com/luisfriendss/817018441009594368',
+    imageUrl: 'https://64.media.tumblr.com/f5dd926db3b7d27506de89bb65ffc947/3d9dd4d47dbf58bc-95/s2048x3072/0041991091c71d3b22b4ca650535a9de2ebd90a4.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1igY2A6ShTmtDYxg5ut1J8d-0R3G-_Fb_/view?usp=drive_link',
   },
   {
@@ -2664,11 +2658,5 @@ export const materials = [
     description: 'By: Avrax',
     imageUrl: 'https://64.media.tumblr.com/b115cf6f4338ea702868e78f3344e387/5a02eb27ce7e2535-7f/s1280x1920/3f61bcda7542879ec6fb439553f3b6bb3e24f010.pnj',
     downloadUrl: 'https://drive.google.com/file/d/16-y4AfhBrVxC0_Lzh-T6hprGp9IYhRzQ/view?usp=sharing',
-  },
-{
-    title: 'STARTER PACK VISUAL EFFECTS',
-    description: 'By:LuisFriends y más   ',
-    imageUrl: 'https://www.tumblr.com/luisfriendss/817018441009594368',
-    downloadUrl: 'https://drive.google.com/file/d/1igY2A6ShTmtDYxg5ut1J8d-0R3G-_Fb_/view?usp=drive_link',
   },
 ];
