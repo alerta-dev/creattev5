@@ -277,18 +277,7 @@ export const programs = [
   imageUrl: 'https://64.media.tumblr.com/377665514841d42ff212b02981d6f674/becc2ce85e6e75a8-f9/s1280x1920/3ca12219d85ea4cfe266c9cdee075c1f58ca0268.pnj',
   downloadUrl: 'https://drive.google.com/file/d/1GqIiDSWo4R0UrtQUGkCotcl-XjQ4v1JE/view?usp=sharing', // Reemplaza con tu enlace real
   },
-  {
-    title: 'Speech to Text ',
-    description: 'By:JohnnyBlack X',
-    imageUrl: 'https://i.ytimg.com/vi/SJKoTXjvGGQ/maxresdefault.jpg',
-    downloadUrl: 'https://pixeldrain.com/u/zFRPrtv2',
-  },
-  {
-    title: 'Blackmagic Design',
-    description: 'By:JohnnyBlack X',
-    imageUrl: 'https://petapixel.com/assets/uploads/2024/06/blackmagic-cloud-ai-training-featured-1536x806.jpg',
-    downloadUrl: 'https://pixeldrain.com/u/Y8jvqZih',
-  },
+ 
 ];
 
 // Plugins
@@ -341,6 +330,19 @@ export const plugins = [
     imageUrl: 'https://64.media.tumblr.com/d60c5ff3175e736432666eb19e878f91/1c79b7ce7bbbd6fa-3c/s1280x1920/797d7434acafd03c1ca72800fae91c7bff94b86e.pnj',
     downloadUrl: 'https://github.com/RatinFX/VegasProFlow/releases/download/1.7.0/VegasProFlow14-1.7.0.zip', // Reemplaza con tu enlace real
   },
+ {
+    title: 'Speech to Text ',
+    description: 'By:JohnnyBlack X',
+    imageUrl: 'https://i.ytimg.com/vi/SJKoTXjvGGQ/maxresdefault.jpg',
+    downloadUrl: 'https://pixeldrain.com/u/zFRPrtv2',
+  },
+  {
+    title: 'Blackmagic Design',
+    description: 'By:JohnnyBlack X',
+    imageUrl: 'https://petapixel.com/assets/uploads/2024/06/blackmagic-cloud-ai-training-featured-1536x806.jpg',
+    downloadUrl: 'https://pixeldrain.com/u/Y8jvqZih',
+  },
+  
 ];
 
 // Renders
@@ -2556,7 +2558,7 @@ export const backgrounds = [
   },
 {
     title: 'BLH 6 Fondos',
-    description: 'By:ZihFried, aortados por Anonimo ',
+    description: 'By:ZihFried, aportados por Anonimo ',
     imageUrl: 'https://i.ytimg.com/vi/7SKUOc_bUdQ/maxresdefault.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1MQpbY_AHYqB_JE0CuqiFPSOJeUg-vsY3/view?usp=drive_link',
   },
