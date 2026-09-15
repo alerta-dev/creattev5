@@ -2446,7 +2446,7 @@ export const renders = [
   {
     title: 'Alert',
     description: 'By:Alert- Anime:  XD    ',
-    imageUrl: 'https://static.wikia.nocookie.net/loquendalert/images/8/82/Indjjk.png/revision/latest?cb=20210818121202&path-prefix=es',
+    imageUrl: 'https://i.ytimg.com/vi/ExsaB-k9h18/maxresdefault.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1XurE6vuKeQQG5tVbQ8YL0IbnpxnrGO9w/view?usp=drive_link',
   },
   {
