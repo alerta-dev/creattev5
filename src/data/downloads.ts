@@ -2374,7 +2374,7 @@ export const renders = [
   {
     title: 'Sans',
     description: 'By:   - Anime:Undertale',
-    imageUrl: 'https://images3.memedroid.com/images/UPLOADED257/5faecdbf04f92.jpeg',
+    imageUrl: 'https://i.ytimg.com/vi/WyfQyohUbCw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBFtcu_yGguigKBUOj_vNx2vv2g_w',
     downloadUrl: 'https://drive.google.com/file/d/1yss8-HtPry6WP_86rxuz0Agok1d7eZ_q/view?usp=drive_link',
   },
   {
