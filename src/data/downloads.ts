@@ -423,7 +423,7 @@ export const renders = [
   },
   {
     title: 'Kirito (Kirigaya Kazuto)',
-    description: 'By:Residents96 - Anime: S.A.O.',
+    description: 'By:Residents96 - Anime: S.A.O. OJO: La contraseña se ha perdido',
     imageUrl: 'https://64.media.tumblr.com/df91657c891fe1eeb5cfdb4d3530d8a3/dc50788798412448-0c/s1280x1920/8f8f7ab3ed19d2030bfe82b755580a3488b288ae.jpg',
     downloadUrl: 'https://www.mediafire.com/file/uxcr0f3a78wylf8/nudes_de_residents69.rar/file', // Reemplaza con tu enlace real
   },
@@ -1420,7 +1420,7 @@ export const renders = [
   },
   {
     title: 'Dante',
-    description: 'By: Avrax - Anime: Devil May Cry',
+    description: 'By: Avrax - Anime: Devil May Cry. OJO: Consultar a su aportante por la contraseña',
     imageUrl: 'https://64.media.tumblr.com/b4df8450665247d2ee41e4f416b522e1/d58a4f1e7beb9e1f-ce/s1280x1920/a8c626d7da3b0cf1186aa837ce020b6066e4d22b.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1EidBdFvV636PeSPpoWB_AkDDQ16hmLk3/view?usp=sharing',
   },
@@ -1440,7 +1440,7 @@ export const renders = [
     title: 'Rally Vicent',
     description: 'By: LoreMafia   - Anime: Gunsmith Cats',
     imageUrl: 'https://64.media.tumblr.com/767db0c42e981754f25af9f30693061c/dc9d69d5ef80a146-8b/s400x600/5f1ad45aa169849eb1298acc00b570b0b7a471ab.pnj',
-    downloadUrl: 'https://drive.google.com/drive/folders/1urPK1EkwEkDEVOJIBbDgdxKjlEmMNuzK?usp=drive_link',
+    downloadUrl: 'https://drive.google.com/drive/folders/1RJ9KBB30qZgPtFB9PHJJy8IGpuy4EUbr?usp=drive_link',
   },
   {
     title: 'Kaseki ',
@@ -1805,11 +1805,11 @@ export const renders = [
     title: 'Kusakabe',
     description: 'By: AngelD - Anime:Jujutsu kaisen',
     imageUrl: 'https://i.ytimg.com/vi/jQ4f6m27Q6U/sddefault.jpg',
-    downloadUrl: 'https://drive.google.com/file/d/1QjuR4sDlsvMnOwHyEe2nZWBoNQcWhRkw/view?usp=sharing',
+    downloadUrl: 'https://www.mediafire.com/file/3nu46rtbqlj86m0/Atsuya+Kusakabe.rar/file',
   },
   {
     title: 'TaeYai',
-    description: 'By: StarShine - Anime:Cyber Sensation',
+    description: 'By: StarShine - Anime:Cyber Sensation OJO: Link en mantenimiento o No encontrado',
     imageUrl: 'https://i.ytimg.com/vi/_UzLn8Tbrlg/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGCEgZShbMA8=&rs=AOn4CLC7hHH7Ror9yx2hHiC2PRtuFKNRmg',
     downloadUrl: 'https://drive.google.com/file/d/1_PLCfBQXLj7QlGhgd37xat9vW0x8_y1m/view?usp=drivesdk',
   },
@@ -2091,7 +2091,7 @@ export const renders = [
   },
   {
     title: 'Gintoki Sakata',
-    description: 'By:   - Anime:Gintama',
+    description: 'By:   - Anime:Gintama. OJO: Incluye a Aiden Pearce de Watch Dogs',
     imageUrl: 'https://static.zerochan.net/Sakata.Gintoki.full.4388240.jpg',
     downloadUrl: 'https://drive.google.com/file/d/14O9w3iqIsqKE7wlJFsCFxSsS27gDor4g/view?usp=drive_link',
   },
