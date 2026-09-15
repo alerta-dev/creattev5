@@ -49,12 +49,6 @@ export const programs = [
   downloadUrl: 'https://drive.google.com/file/d/1HTroH5U7NuCfTANn7CGW7rzS2TVuooMg/view?usp=sharing', // Reemplaza con tu enlace real
   },
   {
-    title: 'Adobe Media Encoder 2026',
-    description: 'By:JohnnyBlack X La contraseña es Edits24',
-    imageUrl: 'https://64.media.tumblr.com/f14afc8f25a5845e940ad93dc037c5c7/becc2ce85e6e75a8-3d/s1280x1920/f154398dad2630b8fe652f4626998769641dc64a.pnj',
-    downloadUrl: 'https://pixeldrain.com/u/6NxXrN5p',
-  },
-  {
   title: 'Adobe Photoshop 2012 CS6',
   description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
   imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
@@ -90,12 +84,6 @@ export const programs = [
   description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
   imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
   downloadUrl: 'https://www.mediafire.com/file/yp0f1r4j0d6r21b/WIN_APS_V23.5.0.669_AP_ZNT.rar/file', // Reemplaza con tu enlace real
-  },
-  {
-    title: 'Adobe Photoshop 2026',
-    description: 'By:JohnnyBlack X La contraseña es: Edits24',
-    imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
-    downloadUrl: 'https://pixeldrain.com/u/6DwyVB1c',
   },
   {
     title: 'Adobe After Effects CS5',
@@ -134,12 +122,6 @@ export const programs = [
     downloadUrl: 'https://www.mediafire.com/file/ohfv2ixhcjsdmsc/WIN_AAE_V23.5.0.52_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
   {
-    title: 'Adobe After Effects 2026',
-    description: 'By:JohnnyBlack X La contraseña es: Edits24',
-    imageUrl: 'https://64.media.tumblr.com/65382e7d912ec246731b66e4944f4283/5f94e19b14c236e5-a9/s1280x1920/db9eee3a6c613ea81c40b0d1e8a427a50e12687d.pnj',
-    downloadUrl: 'https://pixeldrain.com/u/qGrpXL5v',
-  },
-  {
     title: 'Sony Vegas Pro 10',
     description: 'Programa de edición de video cinematografico',
     imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
@@ -156,12 +138,6 @@ export const programs = [
     description: 'Programa de edición de video cinematografico',
     imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1hveo0C96r3sKiLJ9aWsOwws40ksUjSzT/view?usp=sharing', // Reemplaza con tu enlace real
-  },
-  {
-    title: 'Sony Vegas 13',
-    description: 'Programa de edición de video cinematografico',
-    imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
-    downloadUrl: 'https://drive.google.com/file/d/14jTCW2xCy0yuXU-tMRtSEtSraz5A_x5h/view?usp=sharing',
   },
   {
     title: 'Sony Vegas Pro 14',
@@ -189,7 +165,7 @@ export const programs = [
   },
   {
     title: 'Sony Vegas Pro 21',
-    description: 'Programa de edición de video cinematografico',
+    description: 'Programa de edición de video cinematografico OJO: no se sabe la contraseña',
     imageUrl: 'https://64.media.tumblr.com/960afcb436fd6ee5613f2475475b492d/4dcd8d6d965346f3-41/s1280x1920/fb72991055fe5e5f9fbe11c59755d2aeca5fe32d.pnj',
     downloadUrl: 'https://drive.google.com/file/d/1kqxon-lrJFSfWE1iPIcqOsNefryDrkJO/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -224,12 +200,6 @@ export const programs = [
     downloadUrl: 'https://www.mediafire.com/file/vxho87az9vftx32/WIN_APR_V23.5.0.56_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
   {
-    title: 'Adobe Premiere Pro 2026',
-    description: 'By:JohnnyBlack X La contraseña es: Edits24',
-    imageUrl: 'https://64.media.tumblr.com/69ecdf7460b78037ca157b4159cd7285/1d2755acf326a6f0-09/s1280x1920/08c27b1d26ede1ea51a02db2f344c7a7e8b5af00.pnj',
-    downloadUrl: 'https://pixeldrain.com/u/1sSJ6rzc',
-   },
-  {
   title: 'Adobe Ilustrator 2019',
   description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
   imageUrl: 'https://64.media.tumblr.com/d28d7a1e479b4cebb3bb19f97ef69ab5/1d2755acf326a6f0-e6/s1280x1920/2b231e537f2c538707648c4b72c14980b78242ee.pnj',
@@ -258,18 +228,6 @@ export const programs = [
   description: 'Software profesional de edición de imágenes contraseña: www.artistapirata.com',
   imageUrl: 'https://64.media.tumblr.com/d28d7a1e479b4cebb3bb19f97ef69ab5/1d2755acf326a6f0-e6/s1280x1920/2b231e537f2c538707648c4b72c14980b78242ee.pnj',
   downloadUrl: 'https://www.mediafire.com/file/5rl1r0jq3yxqa8n/WIN_AAI_V27.1.0.189_AP_ZNT.rar/file', // Reemplaza con tu enlace real
-  },
-  {
-    title: 'Adobe Illustrator 2026',
-    description: 'By:JohnnyBlack X La contraseña es: Edits24',
-    imageUrl: 'https://64.media.tumblr.com/d28d7a1e479b4cebb3bb19f97ef69ab5/1d2755acf326a6f0-e6/s1280x1920/2b231e537f2c538707648c4b72c14980b78242ee.pnj',
-    downloadUrl: 'https://pixeldrain.com/u/rhaP1tyC',
-  },
-  {
-    title: 'Adobe Audition 2026',
-    description: 'By:JohnnyBlack X La contraseña es: Edits24',
-    imageUrl: 'https://64.media.tumblr.com/d0f36162b43060edbd4289d1baa7da2f/7c5595c34da0bc18-50/s1280x1920/41502a34630ee7479010ffa5f50dbb87c2a9bbce.pnj',
-    downloadUrl: 'https://pixeldrain.com/u/EXrZpFSF',
   },
   {
   title: 'QuickTime 7.7.9',
@@ -2597,12 +2555,6 @@ export const sounds = [
     downloadUrl: 'https://drive.google.com/file/d/1VrJN2wvBnpALwc-jz4QFX5zRbxONRUyq/view', // Reemplaza con tu enlace real
   },
   {
-    title: 'Ambientes Sonoros',
-    description: 'Biblioteca completa de SFX',
-    imageUrl: 'https://64.media.tumblr.com/3803c17696888e4a91d97571f3095f9d/199ff6539be30feb-c9/s1280x1920/c6f4a7e239ec9164bb0d646b19e7a67ec3951363.pnj',
-    downloadUrl: 'https://example.com/download/ambientes-sonoros', // Reemplaza con tu enlace real
-  },
-{
     title: 'SFX Dragon Ball Z',
     description: 'By:Lagarto Daltónico',
     imageUrl: 'https://64.media.tumblr.com/3803c17696888e4a91d97571f3095f9d/199ff6539be30feb-c9/s1280x1920/c6f4a7e239ec9164bb0d646b19e7a67ec3951363.pnj',
