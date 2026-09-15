@@ -401,7 +401,7 @@ export const renders = [
     title: 'Yuu Ishigami',
     description: 'By:Kally 1706 - Anime: Love is War',
     imageUrl: 'https://64.media.tumblr.com/62bde7df5cc4418ef2b07085bfe37c6f/dc50788798412448-5d/s1280x1920/e9a126dd061b5412b09926fd30cf6e5db75d3aae.jpg',
-    downloadUrl: 'https://mega.nz/file/Keo1TACD#PElBU0bhkJAHInztJPp1ApDpJXHf_57I-eI-pnbBwl0', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/file/d/15vlS5bmG3pmdyL4QG5ZPz1wujYxWYvc1/view?usp=drive_link', // Reemplaza con tu enlace real
   },
   {
     title: 'Monkey D. Luffy',
@@ -419,7 +419,7 @@ export const renders = [
     title: 'Taiga Aisaka',
     description: 'By:eduardohaloce - Anime: Toradora!',
     imageUrl: 'https://64.media.tumblr.com/1c8a60b22dca4bb1f2327daf227f3cff/dc50788798412448-67/s1280x1920/834b54b8da89f970a6fd8967f85583ef5b0daa17.jpg',
-    downloadUrl: 'https://mega.nz/file/nCgSEDZL#-itEAKWO2QE79JaagsNsn_Zqx4LuJlC8lWjZQKzsg7w', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/file/d/1CtTwQD32oTkJOsHoYKFrX1Ty8lizecpX/view?usp=drive_link', // Reemplaza con tu enlace real
   },
   {
     title: 'Kirito (Kirigaya Kazuto)',
@@ -455,7 +455,7 @@ export const renders = [
     title: 'Shoyo Hinata',
     description: 'By:Eduardohaloce - Anime: Haikyu!',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/18%20-%20Shoyo%20Hinata.png',
-    downloadUrl: 'https://www.mediafire.com/file/6y56o9lf8l7zevf/Shoyo_Hinata.rar/file', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/file/d/1a4P3Ivbl9ZUAgYXE5woEIOMDl2Rngo2f/view?usp=drive_link', // Reemplaza con tu enlace real
   },
   {
     title: 'Marin',
@@ -470,10 +470,10 @@ export const renders = [
     downloadUrl: 'https://www.mediafire.com/file/qzfphe7fxyi4iun/gamo_chan.rar/file', // Reemplaza con tu enlace real
   },
   {
-    title: 'Shindou',
+    title: 'Kouichi Shindou',
     description: 'By:Eduardohaloce - Anime: Horimiya',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/21%20-%20Shindou%20Kouichi.png',
-    downloadUrl: 'https://www.mediafire.com/file/850gfscb6pp986m/Shindou_Kouichi.rar/file', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/file/d/1tsD6sz6DKL5CYOEUe6SZvN8MA0NVkPG4/view?usp=drive_link', // Reemplaza con tu enlace real
   },
   {
     title: 'Fu',
@@ -512,10 +512,10 @@ export const renders = [
     downloadUrl: 'https://www.mediafire.com/file/4nasdhcbuj2rrdl/haruhi_suzumiya.rar/file', // Reemplaza con tu enlace real
   },
   {
-    title: 'Yuki',
+    title: 'Yuki Nijigasaki',
     description: 'By:Non - Anime: LoveLive!',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/27%20-%20la%20peruana.png',
-    downloadUrl: 'https://www.mediafire.com/file/xqrbnyhn3qirnbr/Yuki_Nijigasaki.rar/file', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/file/d/1W2qfpZEWrHnQtFebdHYil_lcqm9fENdh/view?usp=drive_link', // Reemplaza con tu enlace real
   },
   {
     title: 'Alice',
@@ -566,7 +566,7 @@ export const renders = [
     downloadUrl: 'https://www.mediafire.com/file/ynsqh3vht4446o3/Derieri.zip/file?fbclid=IwAR1nzcu7yI7s0ReB2p_RJVxudz9k-s5emX9fRXvvIOOGfYUrG1mVH96tpo8', // Reemplaza con tu enlace real
   },
   {
-    title: 'Seiya Riuguin',
+    title: 'Seiya Ryuuguuin',
     description: 'By:? - Anime: Isekai Cuartet',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/36%20-%20el%20aweonao.png',
     downloadUrl: 'https://www.mediafire.com/file/eyu4qzj8k9grgm5/El_heroe_cauteloso.zip/file?fbclid=IwAR0jUxrX0MmWSqMLac5wN3xY951Maih36nB9Ahdv9Z7peROMRBDMyuq2tnw', // Reemplaza con tu enlace real
@@ -575,13 +575,13 @@ export const renders = [
     title: 'Corrin',
     description: 'By:? - Juego: Fire Emblem',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/37%20-%20podersword.png',
-    downloadUrl: 'https://mega.nz/folder/YrAGzIZT#rKusCMaGfXkdx4orB4sQ0g', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/file/d/1jvGrNCsAMW9h1nL5kM_TtzLXMldGY4o1/view?usp=drive_link', // Reemplaza con tu enlace real
   },
   {
     title: 'Blyeth',
     description: 'By:? - Juego: Fire Emblem',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/38%20-%20la%20tipa%20tactica.png',
-    downloadUrl: 'https://mega.nz/folder/YrYDRBKB#b01RJeURL54kz57SFPuZDA', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/file/d/1fIbKuiMO7NsmrPEIiETo9ZnsN4RtLSDw/view?usp=drive_link', // Reemplaza con tu enlace real
   },
   {
     title: 'Mario',
@@ -593,7 +593,7 @@ export const renders = [
     title: 'Touma',
     description: 'By:? - Anime: T.M.N.',
     imageUrl: 'https://loquendoalertcreators.github.io/RendersIMG/40%20-%20wachin%20magico.png',
-    downloadUrl: 'https://mega.nz/folder/YrAGzIZT#rKusCMaGfXkdx4orB4sQ0g', // Reemplaza con tu enlace real
+    downloadUrl: 'https://drive.google.com/file/d/1sOAiSQaJzdHksx49tWl7IONMomWweEhB/view?usp=drive_link', // Reemplaza con tu enlace real
   },
   {
     title: 'Elesis',
@@ -666,7 +666,7 @@ export const renders = [
 
   {
     title: 'Thanatos',
-    description: ' By:Solfish - Anime: Persona3 ',
+    description: ' By:Solfish - Anime: Persona3. OJO: incluye Aries Springs, Igna Skyler y Neptunia',
     imageUrl: 'https://64.media.tumblr.com/79373c59a3992ec7e57d1bdc32f311b3/db8347b3c7f0b20c-5f/s1280x1920/7fddca529517621d81f4c680c9752686e9a5cbc8.jpg',
     downloadUrl: 'https://drive.google.com/file/d/16hBZGbJCtwZa0rtPi5b7NZvEeALqLTMs/view?usp=sharing', // Reemplaza con tu enlace real
   },
@@ -1109,8 +1109,8 @@ export const renders = [
     downloadUrl: 'https://drive.google.com/file/d/1J8SUR_N4JyXik8E3jx-N2631IHwib3LU/view?usp=sharing ', // Reemplaza con tu enlace real
   },
   {
-    title: 'Momo Minamoto ',
-    description: 'By: Avrax - Anime: Release the Spyce ',
+    title: 'Momo Minamoto, Rizu Ogata y Sunao Sumeragi ',
+    description: 'By: Avrax - Anime: Release the Spyce, We Never Learn, y Tsugumomo ',
     imageUrl: 'https://64.media.tumblr.com/99c908a09d80907890be88a093dd8538/b585da609a9da825-ad/s400x600/24da345e37df033a29b5d2d4fd9c1bf19070e6f5.jpg',
     downloadUrl: 'https://drive.google.com/file/d/1-jiaiOua3932Softw4VGxz7lXkwqgK5c/view?usp=sharing ', // Reemplaza con tu enlace real
   },
