@@ -1475,7 +1475,7 @@ export const renders = [
   {
     title: 'Azusa Aizawa',
     description: 'By: SantiagoGamerPvz   - Anime: I ve Been Killing Slimes for 300 Years and Maxed Out My Level',
-    imageUrl: 'https://64.media.tumblr.com/5c602399e860ec46ee2ca01789d0c8b3/dc9d69d5ef80a146-e7/s1280x1920/3b38e6a49fb198d66f6f54560cdda0989bd26353.pnj',
+    imageUrl: 'https://i.ytimg.com/vi/DhCcmHs2btY/maxresdefault.jpg',
     downloadUrl: 'https://www.mediafire.com/file/g3rggdv8cqmsye0/maria.zip/file',
   },
   {
