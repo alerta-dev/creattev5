@@ -86,6 +86,12 @@ export const programs = [
   downloadUrl: 'https://www.mediafire.com/file/yp0f1r4j0d6r21b/WIN_APS_V23.5.0.669_AP_ZNT.rar/file', // Reemplaza con tu enlace real
   },
   {
+  title: 'Adobe Photoshop 2026 v27',
+  description: 'By: keyfla',
+  imageUrl: 'https://64.media.tumblr.com/05c19f56554ba8be07260988cde33c1c/4dcd8d6d965346f3-0b/s1280x1920/6d57425a6ec28344808355243ba03a2eda32ad0f.pnj',
+  downloadUrl: 'https://bzzhr.to/aiij69viodlj', // Reemplaza con tu enlace real
+  },
+  {
     title: 'Adobe After Effects CS5',
     description: 'Programa de edición de video cinematografico',
     imageUrl: 'https://64.media.tumblr.com/65382e7d912ec246731b66e4944f4283/5f94e19b14c236e5-a9/s1280x1920/db9eee3a6c613ea81c40b0d1e8a427a50e12687d.pnj',
@@ -120,6 +126,12 @@ export const programs = [
     description: 'Programa de edición de video cinematografico contraseña: www.artistapirata.com',
     imageUrl: 'https://64.media.tumblr.com/65382e7d912ec246731b66e4944f4283/5f94e19b14c236e5-a9/s1280x1920/db9eee3a6c613ea81c40b0d1e8a427a50e12687d.pnj',
     downloadUrl: 'https://www.mediafire.com/file/ohfv2ixhcjsdmsc/WIN_AAE_V23.5.0.52_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'After Effects 2026',
+    description: 'By: keyfla',
+    imageUrl: 'https://64.media.tumblr.com/65382e7d912ec246731b66e4944f4283/5f94e19b14c236e5-a9/s1280x1920/db9eee3a6c613ea81c40b0d1e8a427a50e12687d.pnj',
+    downloadUrl: 'https://bzzhr.to/uuiu8aol7zpz', // Reemplaza con tu enlace real
   },
   {
     title: 'Sony Vegas Pro 10',
@@ -198,6 +210,12 @@ export const programs = [
     description: 'Programa de edición de video cinematografico contraseña: www.artistapirata.com',
     imageUrl: 'https://64.media.tumblr.com/69ecdf7460b78037ca157b4159cd7285/1d2755acf326a6f0-09/s1280x1920/08c27b1d26ede1ea51a02db2f344c7a7e8b5af00.pnj',
     downloadUrl: 'https://www.mediafire.com/file/vxho87az9vftx32/WIN_APR_V23.5.0.56_AP_ZNT.rar/file', // Reemplaza con tu enlace real
+  },
+  {
+    title: 'Adobe Premier 2026',
+    description: 'By: keyfla',
+    imageUrl: 'https://64.media.tumblr.com/69ecdf7460b78037ca157b4159cd7285/1d2755acf326a6f0-09/s1280x1920/08c27b1d26ede1ea51a02db2f344c7a7e8b5af00.pnj',
+    downloadUrl: 'https://bzzhr.to/czgq15hqk56s', // Reemplaza con tu enlace real
   },
   {
   title: 'Adobe Ilustrator 2019',
